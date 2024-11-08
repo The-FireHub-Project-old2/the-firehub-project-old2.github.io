@@ -9,10 +9,30 @@
 
 This repository contains the source code of the official FireHub website.
 
+<table>
+    <tr>
+        <th width="1200px">About repository</th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/the-firehub-project.github.io/refs/heads/master/resources/graphics/images/metrics/base.svg" alt="base" /></td>
+    </tr>
+</table>
+
 ## Support
 
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/The-FireHub-Project/the-firehub-project.github.io.svg)](http://isitmaintained.com/project/The-FireHub-Project/the-firehub-project.github.io 'Percentage of issues still open')
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/The-FireHub-Project/the-firehub-project.github.io.svg)](http://isitmaintained.com/project/The-FireHub-Project/the-firehub-project.github.io 'Average time to resolve an issue')
+
+<table>
+    <tr>
+        <th width="600px">Google PageSpeed scores</th>
+        <th width="600px">Mostly used languages</th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/the-firehub-project.github.io/refs/heads/master/resources/graphics/images/metrics/pagespeed.svg" alt="pagespeed" /></td>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/the-firehub-project.github.io/refs/heads/master/resources/graphics/images/metrics/languages.svg" alt="languages" /></td>
+    </tr>
+</table>
 
 Read our [Support](https://github.com/The-FireHub-Project/.github/blob/master/.github/SUPPORT.md) file that explains how you can get help with the repository and project.
 
@@ -30,6 +50,17 @@ Read our [Support](https://github.com/The-FireHub-Project/.github/blob/master/.g
 
 - Project authors can be found [here](https://github.com/The-FireHub-Project/the-firehub-project.github.io/blob/master/.github/AUTHORS.md).
 - The full list of individual contributors can be found [here](https://github.com/The-FireHub-Project/the-firehub-project.github.io/blob/master/.github/CONTRIBUTORS.md).
+
+<table>
+    <tr>
+        <th width="600px">People involved</th>
+        <th width="600px">Contributors</th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/the-firehub-project.github.io/refs/heads/master/resources/graphics/images/metrics/people.svg" alt="people" /></td>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/the-firehub-project.github.io/refs/heads/master/resources/graphics/images/metrics/contributors.svg" alt="contributors" /></td>
+    </tr>
+</table>
 
 ***
 
