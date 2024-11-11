@@ -17,7 +17,7 @@ jobs:
           output_action: commit
           retries: 1
           retries_delay: 10
-          committer_branch: docs
+          committer_branch: master
           committer_message: "Update base metrics"
           template: repository
           user: The-FireHub-Project
@@ -31,7 +31,7 @@ jobs:
           output_action: commit
           retries: 1
           retries_delay: 10
-          committer_branch: docs
+          committer_branch: master
           committer_message: "Update pagespeed metrics"
           template: repository
           user: The-FireHub-Project
@@ -48,7 +48,7 @@ jobs:
           output_action: commit
           retries: 1
           retries_delay: 10
-          committer_branch: docs
+          committer_branch: master
           committer_message: "Update contributors metrics"
           template: repository
           user: The-FireHub-Project
@@ -72,7 +72,7 @@ jobs:
           output_action: commit
           retries: 1
           retries_delay: 10
-          committer_branch: docs
+          committer_branch: master
           committer_message: "Update languages metrics"
           template: repository
           user: The-FireHub-Project
@@ -92,7 +92,7 @@ jobs:
           output_action: commit
           retries: 1
           retries_delay: 10
-          committer_branch: docs
+          committer_branch: master
           committer_message: "Update people metrics"
           template: repository
           user: The-FireHub-Project
