@@ -31,19 +31,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 75 edited files from 150 commits
+                <small>estimation from 78 edited files from 156 commits
             
               on branch master
             
             
-              over last 7 days</small>
+              over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.5646000946522" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="459.5646000946522" y="0" width="0.43539990534784667" height="8" fill="#d1dbe0"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.57164711881694" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="459.57164711881694" y="0" width="0.42835288118306986" height="8" fill="#d1dbe0"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -55,8 +55,8 @@
                                 SVG
                             </div>
                             <small>
-                                <div>1.83k lines</div>
-                                <div>132 kB</div>
+                                <div>1.88k lines</div>
+                                <div>135 kB</div>
                                 <div>99.91%</div>
                             </small>
                         </div>
