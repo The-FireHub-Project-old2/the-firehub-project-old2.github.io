@@ -36,14 +36,14 @@
               on branch master
             
             
-              over last 9 days</small>
+              over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.564678578671" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="459.564678578671" y="0" width="0.4353214213289471" height="8" fill="#d1dbe0"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.37813827732714" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="459.37813827732714" y="0" width="0.6218617226728467" height="8" fill="#d1dbe0"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -55,9 +55,9 @@
                                 SVG
                             </div>
                             <small>
-                                <div>1.97k lines</div>
-                                <div>133 kB</div>
-                                <div>99.91%</div>
+                                <div>1.43k lines</div>
+                                <div>93 kB</div>
+                                <div>99.86%</div>
                             </small>
                         </div>
                     </section>
@@ -72,7 +72,7 @@
                             <small>
                                 <div>6 lines</div>
                                 <div>126 bytes</div>
-                                <div>0.09%</div>
+                                <div>0.14%</div>
                             </small>
                         </div>
                     </section>
