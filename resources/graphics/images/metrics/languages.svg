@@ -36,7 +36,7 @@
               on branch master
             
             
-              over last 13 days</small>
+              over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -54,8 +54,8 @@
                                 SVG
                             </div>
                             <small>
-                                <div>606 lines</div>
-                                <div>26 kB</div>
+                                <div>600 lines</div>
+                                <div>24.6 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
