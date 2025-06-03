@@ -31,12 +31,12 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 72 edited files from 144 commits
+                <small>estimation from 75 edited files from 150 commits
             
               on branch master
             
             
-              over last 13 days</small>
+              over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -54,8 +54,8 @@
                                 SVG
                             </div>
                             <small>
-                                <div>420 lines</div>
-                                <div>13.1 kB</div>
+                                <div>444 lines</div>
+                                <div>13.8 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
